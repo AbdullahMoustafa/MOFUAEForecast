@@ -7,4 +7,4 @@ The system implements multiple time series forecasting techniques, including ARI
 This tool is designed to support data-driven decision making and budgeting analysis by providing insights into government finance trends and future projections.
 
 Datasource: https://mof.gov.ae/en/home/
-Document: https://www.linkedin.com/in/abdullah-moustafa/
+Article: [https://www.linkedin.com/in/abdullah-moustafa/](https://www.linkedin.com/pulse/benchmarking-forecasting-models-government-financial-moustafa-l1o6f)
